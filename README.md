@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @silverscorpio - Master's Student of Artificial Intelligence @ KU Leuven
-- 👀 I’m interested in Self-Driving Cars
 - 🌱 I’m currently learning AI, ML, DL, Computer Vision, Biometrics, Multi-Agent Systems, Reinforcement Learning, Neuro-and Cognitive Science (to name a few)
 
 <!---
