@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @silverscorpio - Master's Student of AI/ML
+- 👋 Hi, I’m @silverscorpio - AI/ML Master's Student 
 - 🌱 Deeply enthusiastic about Self-Driving Cars, Computer Vision, AI/ML/DL, Reinforcement Learning (to name a few)...
 
 <!---
