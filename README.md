@@ -10,7 +10,7 @@
 
 Feel free to hop around the different repos here, which are being updated frequently, as I add more projects from my end, as time permits! :) 
 
-Currently, I am also working on a website (some remanants can be seen in one of the repos ;)), which, I hope, should be more catered towards me, 🐼, and my Life ... Hang in! :)
+Currently, I am also working on a website (some remnants can be seen in one of the repos 😋), which, I hope, should be more catered towards me, 🐼, and my Life ... Hang in! :)
 
 *_Stay Safe Human, difficult times these days!🤞🏻_*
 
