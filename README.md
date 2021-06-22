@@ -2,7 +2,7 @@
 
 * This is @silverscorpio (aka *Panda*), an AI/ML Master's student in Belgium!
 
-* I'm deeply enthusiastic about ML/AI, Deep Learning, Data Science, Computer Vision, Reinforcement Learning, Cloud Computing, Programming (DS & Algos, DevOps, Software Development), Autonomous Driving/Self-Driving Cars & Evolutionary Computing
+* I'm deeply enthusiastic about ML/AI, Deep Learning, Data Science, Computer Vision, Reinforcement Learning, Cloud Computing, Programming (DS & Algos, ML-DevOps, Software Development), Autonomous Driving/Self-Driving Cars & Evolutionary Computing
 
 * Primarily inclined towards Applied ML, nothing gives me greater joy than working on the practical aspects of AI and striving to implement things as I believe application of the theoretical stuff is what eventually consolidates the understanding and bolsters the progress of mankind...Thus I derive great pleasure when it comes to getting one's hands dirty! 
 
