@@ -20,4 +20,6 @@ Here are some ideas to get you started:
 
 ![snake svg](https://github.com/silverscorpio/silverscorpio/blob/output/github-contribution-grid-snake.svg)
 
+![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+
 [![hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/coder_panda)
