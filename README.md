@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 ![Header](./imgs/header.png)
 
 ![snake svg](https://github.com/silverscorpio/silverscorpio/blob/output/github-contribution-grid-snake.svg)
+
+[![hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/coder_panda)
