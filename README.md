@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silverscorpio&show_icons=true&theme=transparent)
 -->
 
-![Header](./imgs/header.png)
+![Header](./imgs/github-header-image.png)
 
 ![snake svg](https://github.com/silverscorpio/silverscorpio/blob/output/github-contribution-grid-snake.svg)
 
