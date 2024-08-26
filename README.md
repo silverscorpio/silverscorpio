@@ -15,5 +15,3 @@
 Glad to have you wandering about my repos, have fun! 🙌🏼
 
 Cheerio!
-
-_**SilverScoropio**_
