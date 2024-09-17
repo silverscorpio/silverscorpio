@@ -1,4 +1,4 @@
-## Hi There,
+## Hi there,
 
 - I'm a software developer based out of Berlin
 - My tech stack revolves around Python
